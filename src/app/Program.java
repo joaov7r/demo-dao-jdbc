@@ -9,6 +9,7 @@ import model.dao.SellerDao;
 import model.entities.Department;
 import model.entities.Seller;
 
+//This class tests the Seller implementation and connection with DB
 public class Program {
 
 	public static void main(String[] args) {
