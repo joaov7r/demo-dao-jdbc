@@ -1,1 +1,3 @@
-# demo-dao-jdbc
+Programa feito para praticar os conhecimentos adquiridos durante as aulas de banco de dados MySQL. O programa tem duas classes, Seller(vendedor) e Department(departamento) e faz testes com os métodos implementados nas classes DaoJDBC de ambas entidades. A implementação é toda feita com reuso dos objetos e utilização de interfaces Dao, com as classes DaoJDBC implementando seus métodos.
+
+Program made to practice the knowledge acquired during MySQL database classes. The program has two classes, Seller and Department, and tests the methods implemented in the DaoJDBC classes of both entities. The implementation is all done by reusing objects and using Dao interfaces, with the DaoJDBC classes implementing their methods.
